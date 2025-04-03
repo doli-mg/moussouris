@@ -1,1 +1,1 @@
-bonjour
+ information
